@@ -1,0 +1,23 @@
+#title {
+  background: rgb(6, 190, 182);
+  background: linear-gradient(
+    90deg,
+    rgba(6, 190, 182, 1) 0%,
+    rgba(24, 100, 159, 1) 100%
+  );
+  color: rgb(52, 52, 52);
+  font-family: 'Antic Slab', serif;
+}
+
+#title a{
+    color: black;
+}
+
+#title a:hover{
+    color: white;
+}
+
+#myName {
+  font-family: "Lobster", cursive;
+  font-size: 5rem;
+}
